@@ -1,0 +1,25 @@
+.bg-info, .btn-info {
+    background-color: #41bbff !important;
+    border-color: #41bbff !important;
+}
+
+.btn-info:focus {
+    outline: none;
+    box-shadow: none;
+}
+.text-info {
+    color: #41bbff !important;
+}
+
+#highScoresList {
+    list-style: none;
+    padding-left: 0;
+    margin-bottom: 4rem;
+
+}
+
+.high-score {
+    font-size: 2rem;
+    margin-bottom: 0.25rem;
+    color: #41bbff;
+}
