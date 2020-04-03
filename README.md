@@ -14,3 +14,5 @@ I implemented local storage for storing the scores.
 
 * [HTML](https://www.w3schools.com/html/)
 * [CSS](https://www.w3schools.com/css/)
+* [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
